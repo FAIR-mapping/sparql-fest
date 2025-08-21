@@ -77,5 +77,5 @@ Please **cite the project** when using or referencing the queries.
 
 ## Acknowledgments
 
-TODO
+TODO ...
 
