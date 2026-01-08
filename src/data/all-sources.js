@@ -36,6 +36,6 @@ export const allSources = [
         name: "Sparql Fest Tutorials",
         logo: SPLogo,
         prefix: "Tutorials",
-        namespace: "https://caloyko.github.io/Sparql-fest/",
+        namespace: "https://FAIR-mapping.github.io/sparql-fest/",
     }
 ]
