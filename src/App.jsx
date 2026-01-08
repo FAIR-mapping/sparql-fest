@@ -16,7 +16,7 @@ import SingleTuto from './pages/SingleTuto'
 
 const App = () => {
   return (
-      <BrowserRouter basename="/Sparql-fest">
+      <BrowserRouter basename="/sparql-fest">
           <Navbar />
           <Toaster position="top-right" reverseOrder={false} />
 
